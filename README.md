@@ -1,4 +1,0 @@
-ChanduStore
-===========
-
-MyRepository
